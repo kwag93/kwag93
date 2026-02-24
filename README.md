@@ -1,34 +1,43 @@
-안녕하세요! 😃 
-현재 회사에서 로봇 관제 시스템의 개발과 유지를 담당하는 프론트엔드 엔지니어입니다.
+# Woody
 
-저는 코드 개선과 디자인 패턴에 중점을 둔 소프트웨어 기술에 대한 강한 열정을 가지고 있습니다.
+42 Seoul에서 C로 시작했습니다.
+지금은 Clobot에서 로봇 관제 시스템의 프론트엔드를 만들고 있어요.
 
+경제적이고 생산적인 코드란 뭘까, 를 요즘 가장 많이 생각합니다.
+「쏙쏙 들어오는 함수형 코딩」을 읽고 나서 Action/Calculation/Data를 나누는 습관이 붙었고, 그 이후로 코드를 바라보는 기준이 꽤 달라졌어요.
 
-저는 독서와 러닝을 좋아해요! 
+---
 
-사람들에게 널리 알려지는 서비스를 개발하고 싶은 열망이 있어요!
+### Clobot에서 배운 것들
 
+SPOT 로봇 원격 제어부터 화학 센서 모니터링(Chemisensor), 실시간 영상 처리, 삼성 E&A 산업 현장 관제까지. 프로젝트마다 다른 걸 배웠습니다.
 
-## Skills
+로봇과의 연결, 서버와의 연결, SSE 스트리밍, 센서 데이터 시각화. 삼성 E&A에서는 그 총합이었어요. Canvas 위에 좌표를 찍고 로봇 경로를 그리는 작업을 하면서 앞의 경험이 하나로 모이는 느낌이었습니다.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+---
 
+### 요즘 고민하는 것들
 
-## Tools
+- **추상화** — 복잡한 코드에서 본질을 꺼내는 연습. 안에서 밖으로 이름 붙이기, Wishful Thinking.
+- **설계 원칙** — SRP, IoC, OCP. 변경에 강한 코드를 어떻게 만들 것인가.
+- **디버깅** — 증상이 아니라 원인을 찾는 습관. 진단 → 재현 → 수정 → 예방.
+- **AI와 일하는 법** — Claude Code로 일하는 법을 정리해서 [팀 온보딩 가이드](https://kwag93.github.io/claude-code-onboarding-site/)를 만들었어요.
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-F9F9F9?logo=amazon-aws&logoColor=232F3E)
-![Route53](https://img.shields.io/badge/Route_53-46A037?logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?logo=amazon-aws&logoColor=white)
+---
 
+### 영향을 준 경험들
 
+**토스 액셀레이터 3기** — 좋은 프론트엔드 코드가 뭔지, 어떤 기준으로 판단해야 하는지 집중적으로 고민한 시간.
 
+**쏙쏙 들어오는 함수형 코딩** — "이 코드가 정말 필요한 만큼만 복잡한가?"를 묻게 해준 책.
 
+**42 Seoul** — 누가 가르쳐주지 않는 환경에서 스스로 답을 찾는 법.
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwag93&show_icons=true&theme=radical)
+📚 책 읽는 걸 좋아하고 러닝도 합니다.
+많은 사람이 매일 쓰는 서비스를 만들어보고 싶어요.
+
+---
+
+![Woody's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwag93&show_icons=true&theme=radical)
