@@ -40,4 +40,4 @@ SPOT 로봇 원격 제어부터 화학 센서 모니터링(Chemisensor), 실시�
 
 ---
 
-![Woody's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwag93&show_icons=true&theme=radical)
+![Woody's GitHub Streak](https://streak-stats.demolab.com?user=kwag93&theme=radical)
